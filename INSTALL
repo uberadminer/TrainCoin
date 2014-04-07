@@ -1,0 +1,9 @@
+Building TrainCoin
+
+See doc/readme-qt.rst for instructions on building TrainCoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TrainCoin.
+
+See doc/build-*.txt for instructions on building TrainCoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of TrainCoin.
