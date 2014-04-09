@@ -2,6 +2,8 @@ TrainCoin (XTN)
 ==============
 A project of TrainCoin.
 --------------
+![alt tag](http://i.imgur.com/%2FhcVAbDC.png)
+
 - Algorithm: Scrypt
 - Difficulty retarget: every 250 blocks (~5.2 hours)
 - Blocks per day: 1152 (1.25 minute blocks)
